@@ -1,0 +1,17 @@
+.list {
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    margin: 5px;
+    margin-left: 30%;
+  }
+
+  .btnDanger{
+    color: #fff;
+    background-color: red!important;
+    border-color: red!important;
+  }
+
+  span:hover {
+    cursor: pointer;
+}
